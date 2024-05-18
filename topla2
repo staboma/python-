@@ -1,0 +1,4 @@
+x=int(input("1. sayı:"))
+y=int(input("2. sayı:"))
+toplam=x+y
+print(toplam)
