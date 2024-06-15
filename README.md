@@ -1,1 +1,1 @@
-Pythonda yapmış olduğum projelerim
+Pythonda yapmış olduğum örneklerim
