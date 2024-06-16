@@ -11,7 +11,7 @@ def main():
     sorular = {
         1: ("Hangi renk trafik lambasının anlamı durdur? ", "kırmızı"),
         2: ("Kaç tane gün vardır?", "7"),
-        # Diğer soruları buraya ekleyin
+        
     }
 
     print("Sınav başlıyor!")
