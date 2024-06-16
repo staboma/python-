@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup as bs
 
-github_profile = "https://github.com/staboma"
+github_profile = ""
 
 try:
     req = requests.get(github_profile)
