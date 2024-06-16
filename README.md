@@ -1,1 +1,0 @@
-Pythonda yapmış olduğum örneklerim
